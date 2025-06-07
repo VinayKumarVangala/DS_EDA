@@ -6,7 +6,7 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 
 ##  Solution Overview
 
-We created a synthetic dataset of 500 individuals with the following variables:
+Created a synthetic dataset of 500 individuals with the following variables:
 
 - `Age` (continuous)
 - `Gender` (categorical)
