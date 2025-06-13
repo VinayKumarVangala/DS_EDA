@@ -26,7 +26,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset (Titanic)
   - Age Distribution by Survival
   - Correlation Matrix
 
-## Task of Task3.ipynb
+## Description of Task3.ipynb
 Predict whether a customer subscribes to a term deposit using a decision tree model based on their demographic and behavioural features.
 
 ### Solution Overview
