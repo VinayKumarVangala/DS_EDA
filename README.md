@@ -1,8 +1,8 @@
-# SkillCraft Internship - Data Science Task 01
+# Data Science ~ EDA 
 
-##  Task Description
+##  Description
 
-Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+Creating a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 ##  Solution Overview
 
@@ -13,7 +13,7 @@ Created a synthetic dataset of 500 individuals with the following variables:
 
 ###  Files:
 - `custom_population_dataset.csv` – synthetic dataset
-- `SCT_DS_1.ipynb` – notebook with code & visualizations
+- `Task1.ipynb` – notebook with code & visualizations
 
 ###  Visualizations:
 - Histogram: Age Distribution
